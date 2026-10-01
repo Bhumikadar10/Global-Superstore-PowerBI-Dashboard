@@ -39,7 +39,9 @@ Created DAX measures for the main KPIs and a dedicated **Date Table** for time-b
 
 ## 📷 Dashboard Preview
 
-![Global Superstore Sales Performance Dashboard](<img width="1119" height="630" alt="{60C549B4-627B-45A1-983C-89270A4B1896}" src="https://github.com/user-attachments/assets/2e0c4c00-f70f-4017-bf54-17f83ac83169" />
+![Global Superstore Sales Performance Dashboard](<img width="752" height="423" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/15bbd71b-291e-443a-bc57-ee59dbdf72b7" />
+
+
 )
 
 ## 📁 Project Files
